@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0:EBEBEB,100:EBEBEB&text=✨%20SeoYoung's%20GitHub%20✨&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=100)
 
 
-#### Hi✋ I'm Seoyoung Shin, backend developer in South Korea.   
+#### Hi✋ I'm Seoyoung Shin, backend developer in South Korea.    
 
 
 ***
